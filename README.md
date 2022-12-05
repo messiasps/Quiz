@@ -5,8 +5,8 @@ Um projeto bem simples feito em Flutter, o aplicativo realiza perguntas aleatór
 Visualização do projeto:
 
 <p align="center">
-  <img src="img_readme/tela1.jpeg" width="200" height="400">
-  <img src="img_readme/tela2.jpeg" width="200" height="400">
-  <img src="img_readme/tela3.jpeg" width="200" height="400">
-  <img src="img_readme/tela4.jpeg" width="200" height="400">
+  <img src="img_readme/tela1.PNG" width="200" height="400">
+  <img src="img_readme/tela2.PNG" width="200" height="400">
+  <img src="img_readme/tela3.PNG" width="200" height="400">
+  <img src="img_readme/tela4.PNG" width="200" height="400">
 </p>
