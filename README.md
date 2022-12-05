@@ -1,6 +1,6 @@
 ### Projeto Quiz
 
-Um projeto bem simples feito em Flutter para começar os estudos na área de desenvolvimento mobile, o aplicativo realiza perguntas aleatórias e dependendo de sua resposta, o aplicativo vai colocar qual nível você estar colocado de acordo com sua respostas. 
+Um projeto bem simples feito em Flutter, o aplicativo realiza perguntas aleatórias sobre a seleção brasileira de futebol, no final o aplicativo vai informar quantas perguntas respondeu corretamente. 
 
 Visualização do projeto:
 
